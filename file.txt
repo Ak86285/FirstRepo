@@ -1,1 +1,1 @@
-Hi first commit
+pulled successfully and now going to commit.
